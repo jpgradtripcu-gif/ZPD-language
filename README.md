@@ -10,19 +10,3 @@
 +source .venv/bin/activate
 +pip install -U pip
 +```
-+
-+## Suggested structure
-+
-+As the project grows, consider organizing it like this:
-+
-+```
-+ZPD-language/
-+├── README.md
-+├── src/              # library or application code
-+├── tests/            # automated tests
-+├── scripts/          # helper scripts and one-off tools
-+├── data/             # sample datasets or fixtures
-+└── docs/             # longer-form documentation
-+```
-+
-)
